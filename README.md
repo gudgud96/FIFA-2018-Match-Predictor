@@ -12,6 +12,7 @@ python fifa-ml-nn.py
 Prediction results as below:
 
 Top 4 by Linear Regressor: Brazil, Spain, Argentina, Germany
+
 Top 4 by neural network: Brazil, Spain, Germany, Portugal
 
 Please find both result .csv files for prediction outcomes, including win, lose and draw probabilities.
